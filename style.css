@@ -1,0 +1,152 @@
+body {
+    background-image: url('backend.jpg');
+      background-size: cover;
+  }
+ 
+h1{
+    color: rgb(89, 89, 245);
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.pen{
+    color: #f8f8f8f5;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.per{
+    color: #b6b6e0;
+    position: absolute;
+    left: 600px;
+    top: 640px;
+    size: 32px;
+
+}
+
+.efcb{
+    display: inline-block;
+    padding: 0px 42px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #0004ff75;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgba(0, 0, 0, 0.623);
+    border-radius: 20px;
+    position: absolute;
+    left: 600px;
+    top: 140px
+  }
+  
+  .efcb:hover {background-color: #0400ff}
+  
+  .efcb:active {
+    background-color: #e4686821;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.egml{
+    display: inline-block;
+    padding:  0px 58px;
+ 
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #ff000063;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgba(0, 0, 0, 0.623);
+    border-radius: 20px;
+    position: absolute;
+    left: 600px;
+    top: 240px
+  }
+  
+  .egml:hover {background-color: #ff0000}
+  
+  .egml:active {
+    background-color: #e4686821;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.einst{
+    display: inline-block;
+    padding: 0px 40px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #ff00c857;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgba(0, 0, 0, 0.623);
+    border-radius: 20px;
+    position: absolute;
+    left: 600px;
+    top: 340px
+  }
+  
+  .einst:hover {background-color: #ff00b3}
+  
+  .einst:active {
+    background-color: #e4686821;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.etik{
+    display: inline-block;
+    padding:  0px 58px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #03000046;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgba(0, 0, 0, 0.623);
+    border-radius: 20px;
+    position: absolute;
+    left: 600px;
+    top: 440px
+  }
+  
+  .etik:hover {background-color: #000000}
+  
+  .etik:active {
+    background-color: #e4686821;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+.esnap{display: inline-block;
+    padding:  0px 44px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #fffb0088;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(0, 0, 0);
+    border-radius: 20px;
+    position: absolute;
+    left: 600px;
+    top: 540px
+  }
+  
+  .esnap:hover {background-color: #eeff00}
+  
+  .esnap:active {
+    background-color: #e4686821;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
